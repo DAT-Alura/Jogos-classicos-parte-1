@@ -46,3 +46,19 @@ Sabendo disso, podemos definir que função é:
 - __Um conjunto de comandos ou códigos que realiza uma tarefa específica.__
 
 > Certo! No nosso caso, cada função criada é responsável por um comportamento, tornando a leitura do código mais intuitiva e simples.
+
+## Aula 3
+
+1 - Criamos o código que verifica a colisão da bolinha com a nossa raquete verificando a posição x e y de cada um deles. Porém, acessando a documentação do P5 Js, vimos que existe uma solução disponível no GitHub, para reconhecer a colisão entre objetos 2D.
+
+Sabendo disso, analise as afirmações abaixo e marque as verdadeiras.
+
+- O GitHub é o único lugar da web onde é possível hospedar código.
+- O GitHub possui apenas soluções para projetos feitos em Javascript.
+- __É possível compartilhar um código com a solução desenvolvida por nós para que outras pessoas possam usar.__
+
+> Certo! Podemos hospedar nosso código no GitHub, compartilhando uma solução, ajudando assim outras pessoas da comunidade.
+
+- __O GitHub permite a socialização com pessoas que possuem os mesmos interesses que você.__
+
+> Certo! O GitHub funciona também como um rede social entre pessoas programadores.
