@@ -2,7 +2,7 @@
 
 ## Aula 1
 
-link para download do Scratch feito: https://scratch.mit.edu/projects/410168240/
+link para download do Scratch feito: <https://scratch.mit.edu/projects/410168240/>
 
 1 - Para movimentar a raquete do oponente de forma inteligente, uma pessoa desenvolveu o seguinte código no ator bolinha:
 
