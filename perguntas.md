@@ -22,3 +22,27 @@ Com base no código usado pela pessoa, o que ela pode fazer para a raquete do op
 
 - No código de ator bolinha, a pessoa pode zerar o valor do subtraendo e passar a posição Y da bolinha.
 - No código de ator bolinha, a pessoa pode alterar o valor do subtraendo para -100.
+
+## Aula 2
+
+1 - Sem alterar o comportamento do jogo, movemos alguns códigos da função draw para funções que criamos:
+
+``` javascript
+function mostraBolinha()
+```
+
+``` javascript
+function movimentaBolinha()
+```
+
+``` javascript
+function verificaColisaoBorda()
+```
+
+Sabendo disso, podemos definir que função é:
+
+- Um conceito que está relacionado com a ideia de classificar e abstrair coisas.
+- A união de vários códigos aleatórios, com comportamentos diferentes em um único lugar, visando tornar o código mais legível.
+- __Um conjunto de comandos ou códigos que realiza uma tarefa específica.__
+
+> Certo! No nosso caso, cada função criada é responsável por um comportamento, tornando a leitura do código mais intuitiva e simples.
