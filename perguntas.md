@@ -62,3 +62,29 @@ Sabendo disso, analise as afirmações abaixo e marque as verdadeiras.
 - __O GitHub permite a socialização com pessoas que possuem os mesmos interesses que você.__
 
 > Certo! O GitHub funciona também como um rede social entre pessoas programadores.
+
+## Aula 4
+
+1 - Durante o curso, após movimentar a raquete do oponente de forma automática, suponhamos que um aluno ou uma aluna resolveu criar um placar do jogo, mostrando os pontos ganhos por cada raquete. Para isso, desenvolveu a seguinte função:
+
+``` javascript
+function marcaPonto(){
+  if (xBolinha > 590){
+    pontosDoOponente += 1;
+  }
+  if (xBolinha < 10){
+    meusPontos += 1;
+  }
+}
+```
+
+Porém, ao executar o programa, percebeu que algo não funcionou como esperado.
+
+Com base no código, podemos afirmar que:
+
+- Existe um erro de sintaxe na linha de cada código if.
+- __Quando eu fizer um ponto, este ponto será atribuído ao oponente.__
+
+> Certo! A parede do lado do opoente tem o valor x igual a 600. Sendo assim, caso a primeira condição seja verdadeira, é somado a variável pontosDoOponente 1.
+
+- Os pontos não sofrerão alteração quando a bolinha tocar a parede da minha raquete ou do oponente.
