@@ -88,3 +88,23 @@ Com base no código, podemos afirmar que:
 > Certo! A parede do lado do opoente tem o valor x igual a 600. Sendo assim, caso a primeira condição seja verdadeira, é somado a variável pontosDoOponente 1.
 
 - Os pontos não sofrerão alteração quando a bolinha tocar a parede da minha raquete ou do oponente.
+
+## Aula 5
+
+1 - Para deixar o jogo mais emocionante e criarmos uma atmosfera de ação para ele, escolhemos colocar uma trilha sonora, que é executada quando o jogo é iniciado.
+
+Dentro de um jogo, são necessárias algumas ações para reproduzir um áudio ou uma trilha em formato de loop (repetidamente). Selecione as alternativas que apresentam partes necessárias nesse processo:
+
+- __Carregar o áudio com a trilha que queremos tocar.__
+
+> Certo! Precisamos adicionar o arquivo com a música que queremos executar. Utilizando o P5 js, podemos fazer isso escolhendo a opção add file e selecionar o arquivo necessário.
+
+- __Criar a função preload() e atribuir a variável o resultado da função loadSound() com o caminho da trilha e sua extensão.__
+
+> Certo! Sem essa função, não é possível carregar a trilha do jogo nem executá-la.
+
+- __Criar uma variável para armazenar a trilha em tempo de execução do nosso jogo.__
+
+> Certo! Podemos usar a palavra let para criar a variável.
+
+- Executar a trilha na função setup() com o comando trilha.play().
